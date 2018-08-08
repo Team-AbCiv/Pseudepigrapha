@@ -4,3 +4,7 @@
 
 The modpack started in late-2015; however due to lack of time it has been WIP since then.  
 Keep eyes on this repo; it may receive updates in the future.
+
+### Side note
+
+  1. `mod_list` contains SHA256 checksum of all jar files used in this modpack.
