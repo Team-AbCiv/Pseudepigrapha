@@ -1,0 +1,111 @@
+#en_US for AbCivIII
+
+##IC2ForgeHammer
+tc.research_name.IC2ForgeHammer=Tinker's Hammer
+tc.research_text.IC2ForgeHammer=A very tough hammer you will love
+abcivIII.IC2ForgeHammer.text.1=There is a saying that you need proper tools to do your work. Now you decided to step across the boundry between magic and tech, why not prepare a useful hammer? Using this forge hammer you can not only make plate, but also metal casing and manything else. <BR> However, it seems that this hammer cannot be used as weapon. You may want to try it but please be ready for unknown situdation.
+
+##IC2Cutter
+tc.research_name.IC2Cutter=Tinker's Cutter
+tc.research_text.IC2Cutter=And you cut everything into pieces
+abcivIII.IC2Cutter.text.1=
+
+##IC2Wrench
+tc.research_name.IC2Wrench=Tinker's Wrench
+tc.research_text.IC2Wrench=A thaumaturgical mechanist
+abcivIII.IC2Wrench.text.1=Be awesome! This wrench is made from the essense of thaumium and you will get infinite power from it! 
+
+##IC2MachineHull
+tc.research_name.IC2MachineHull=Body of mechaninary
+tc.research_text.IC2MachineHull=Tech and magic are binded together
+abcivIII.IC2MachineHull.text.1=That is not magic!
+
+##IC2Circuit
+tc.research_name.IC2Circuit=Precious Apparatus
+tc.research_text.IC2Circuit=Better than redstone
+abcivIII.IC2Circuit.text.1=
+
+##IC2IndustrialRevolution
+tc.research_name.IC2IndustrialRevolution=Industrial Revolution
+tc.research_text.IC2IndustrialRevolution=True revolution of magic has begun.
+
+##IC2Machineary
+tc.research_name.IC2AerExtractor=Machine of Aero: Extrator
+tc.research_text.IC2AerExtractor=As invisible as the aero
+abcivIII.IC2AerExtractor.text.1=Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.
+
+tc.research_name.IC2TerraCompressor=Machine of Earth: Compressor
+tc.research_text.IC2TerraCompressor=As tough as the earth
+abcivIII.IC2TerraCompressor.text.1=Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.
+
+tc.research_name.IC2IgnisRecycler=Machine of Flame: Recycler
+tc.research_text.IC2IgnisRecycler=As heartless as the flame
+abcivIII.IC2IgnisRecycler.text.1=Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.
+
+tc.research_name.IC2AquaOreWashingPlant=Machine of Water: Ore Washing Plant
+tc.research_text.IC2AquaOreWashingPlant=As pure as the water
+abcivIII.IC2AquaOreWashingPlant.text.1=Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.
+
+tc.research_name.IC2OrdoMetalFormer=Machine of Order: Metal Former
+tc.research_text.IC2OrdoMetalFormer=As clean as the order
+abcivIII.IC2OrdoMetalFormer.text.1=Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.
+
+tc.research_name.IC2PerditioMacerator=Machine of Entropy: Macerator
+tc.research_text.IC2PerditioMacerator=As ruth as the entropy
+abcivIII.IC2PerditioMacerator.text.1=Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.
+
+##IC2MachineryEvolution
+tc.research_name.IC2MachineryEvolution=Evolution of Machinery
+tc.research_text.IC2MachineryEvolution=GregTech shall rule the world!
+
+tc.research_name.IC2EnergyOrigin=Origin of Energy
+tc.research_text.IC2EnergyOrigin=There seems to be not only one energy form...
+abcivIII.IC2EnergyOrigin.text.1=After you dig more deeply in machinery, you realized that you need a totally new energy to drive your machine. At this time you still have no clue about its origin, but all your research notes point to the mystical red-color dust from the depth. <BR>Previously several thaumaturgists has shown that §8§nmachina essentia§r§0 will let the red dust resonanting and release unknown energy. <BR> Strange idea filled into your mind. You almost lose your control, but your little left logical thinking tells you: it is what you are seeking.
+
+tc.research_name.IC2FundamentalElectricityTheorem=Fundamental Theorem of Electricity
+tc.research_text.IC2FundamentalElectricityTheorem=The absolute truth in universe
+abcivIII.IC2FundamentalElectricityTheorem.text.1=
+
+tc.research_name.IC2SEAFM=Standard Electroic Aura Field Model
+tc.research_text.IC2SEAFM=The cloud of electrons
+
+##IC2NuclearReactionTheory
+tc.research_name.IC2NuclearReactionTheory=Daybreaker of Energy Future
+tc.research_text.IC2NuclearReactionTheory=The last unknown technology for human being
+abcivIII.IC2NuclearReactionTheory.text.1=Lorem ipsum
+
+##IC2BronzeTools
+tc.research_name.IC2BronzeTools=Bronze Thingy
+tc.research_text.IC2BronzeTools=Practical tools for industrialists
+abcivIII.IC2BronzeTools.text.1=Lorem ipsum
+
+##IC2Drill
+tc.research_name.IC2Drill=Iron Drill
+tc.research_text.IC2Drill=Improvement of Pickaxe
+
+##IC2Chainsaw
+tc.research_name.IC2Chainsaw=Iron Chainsaw
+tc.research_text.IC2Chainsaw=Improvaement of Axe
+
+##IC2DiamondDrill
+tc.research_name.IC2DiamondDrill=Diamond Drill
+tc.research_text.IC2DiamondDrill=Durable drill
+
+##IC2RedElixirInLegend
+tc.research_name.IC2RedElixirInLegend=Red? Purple? Elixir of immortality?
+tc.research_text.IC2RedElixirInLegend=Where is this purple and flawless thingy from?
+abcivIII.IC2RedElixirInLegend.text.1=
+
+##IC2OriginOfMatter
+tc.research_name.IC2OriginOfMatter=§bMatter§r behind the universe§r
+tc.research_text.IC2OriginOfMatter=One is all and all is one.
+abcivIII.IC2OriginOfMatter.text.1=Elixir of immortality is the mystical substance in eastern legends, giving human being with infinite life. Several taoists claimed that they acquired it by Chinese Alchemy, but that knowledge has lost in the stream of history. <LINE> Now it's those Electro Thaumaturgists' turn. <BR>Thousnads years of research on node transducer has shown that it is also capable to keep an one-way gate open, which can suck everything into it and turn them into pure §lmatter§r. 
+abcivIII.IC2OriginOfMatter.text.2=That matter, is exactly what all thaumaturgists are seeking - elixir of immortality, or known by some mages as philosopher's stone. <BR>Hence, you decided to use all the powerful material you have known - such as primal charm, primordial peral, and voidmetal, to create the most insane electirc machine from the beginning of the time. <LINE>You are still not sure about what it will produce - some ancient research note claim that they got some solid matter, while all recent researches show that it is not possible to keep it solid. According to your notes, you think there is something wrong with your aura, which may promote things to be more chaotic. and decide to research oon that later on.
+
+##FMOriginOfSins
+tc.research_name.FMOriginOfSins=The origin of seven deadly sins
+tc.research_text.FMOriginOfSins=Broken fake mask and the hopeless masquerade
+
+##ForElectricEngine
+tc.research_name.ForElectricEngine=Basic Electronic Fluctuating Field
+tc.research_text.ForElectricEngine=Revealation of two different theory

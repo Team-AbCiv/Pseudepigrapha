@@ -1,0 +1,94 @@
+#zh_CN for AbCivIII
+
+##IC2ForgeHammer
+tc.research_name.IC2ForgeHammer=工匠之锤
+tc.research_text.IC2ForgeHammer=你会喜欢这把结实的锻造锤的
+abcivIII.IC2ForgeHammer.text.1=有句老话说得好，“工欲善其事，必先利其器”。你已决定涉足科技与魔法交界的地方，然后第一件事自然就是一把称手的锻造锤了。这把锻造锤可以把金属砸成板，还可以用来制作金属盒和其他很多东西。<BR>然而它似乎并不能用作武器。你可以去试一试，但是请务必准备好应对突发情况。
+
+##IC2Cutter
+tc.research_name.IC2Cutter=工匠之剪
+tc.research_text.IC2Cutter=然后你将一切剪为碎片
+abcivIII.IC2Cutter.text.1=当你完成第一把锻造锤后，你忽然觉得你还少了些什么。凌乱的研究笔记和你的奇怪念头将你引向了这个奇怪的答案——<BR>一把足以切割金属板的剪刀。
+
+##IC2Wrench
+tc.research_name.IC2Wrench=工匠扳手
+tc.research_text.IC2Wrench=神秘机械师
+abcivIII.IC2Wrench.text.1=Be awesome! This wrench is made from the essense of thaumium and you will get infinite power from it! 
+
+##IC2MachineHull
+tc.research_name.IC2MachineHull=机械之躯
+tc.research_text.IC2MachineHull=科技与魔法自此融为一体
+abcivIII.IC2MachineHull.text.1=这不魔法！
+
+##IC2Circuit
+tc.research_name.IC2Circuit=精密仪器
+tc.research_text.IC2Circuit=比红石更好
+abcivIII.IC2Circuit.text.1=
+
+##IC2IndustrialRevolution
+tc.research_name.IC2IndustrialRevolution=工业革命
+tc.research_text.IC2IndustrialRevolution=真正的魔法革命，现在才刚刚开始...
+
+##IC2Machineary
+tc.research_name.IC2AerExtractor=要素机械：柔风之提取机
+tc.research_text.IC2AerExtractor=As invisible as the aero
+abcivIII.IC2AerExtractor.text.1=Lorem ipsum dolor sit amet， consectetur adipiscing elit， sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.
+
+tc.research_name.IC2TerraCompressor=要素机械：大地之压缩机
+tc.research_text.IC2TerraCompressor=As tough as the earth
+abcivIII.IC2TerraCompressor.text.1=Lorem ipsum dolor sit amet， consectetur adipiscing elit， sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.
+
+tc.research_name.IC2IgnisRecycler=要素机械：业火之回收机
+tc.research_text.IC2IgnisRecycler=As heartless as the flame
+abcivIII.IC2IgnisRecycler.text.1=Lorem ipsum dolor sit amet， consectetur adipiscing elit， sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.
+
+tc.research_name.IC2AquaOreWashingPlant=要素机械：流水之洗矿厂
+tc.research_text.IC2AquaOreWashingPlant=As pure as the water
+abcivIII.IC2AquaOreWashingPlant.text.1=Lorem ipsum dolor sit amet， consectetur adipiscing elit， sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.
+
+tc.research_name.IC2OrdoMetalFormer=要素机械：秩序之金属成型机
+tc.research_text.IC2OrdoMetalFormer=As clean as the order
+abcivIII.IC2OrdoMetalFormer.text.1=Lorem ipsum dolor sit amet， consectetur adipiscing elit， sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.
+
+tc.research_name.IC2PerditioMacerator=要素机械：混沌之打粉机
+tc.research_text.IC2PerditioMacerator=As ruth as the entropy
+abcivIII.IC2PerditioMacerator.text.1=Lorem ipsum dolor sit amet， consectetur adipiscing elit， sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.
+
+tc.research_name.IC2EnergyOrigin=能源起源
+tc.research_text.IC2EnergyOrigin=There seems to be not only one energy form...
+abcivIII.IC2EnergyOrigin.text.1=After you dig more deeply in machinery， you realized that you need a totally new energy to drive your machine. At this time you still have no clue about its origin， but all your research notes point to the mystical red-color dust from the depth. <BR>Previously several thaumaturgists has shown that §8§nmachina essentia§r§0 will let the red dust resonanting and release unknown energy. <BR> Strange idea filled into your mind. You almost lose your control， but your little left logical thinking tells you: it is what you are seeking.
+
+tc.research_name.IC2FundmentalElectricityTheorem=基础电力原理(FTE)
+tc.research_text.IC2FundmentalElectricityTheorem=The absolute truth in universe
+abcivIII.IC2FundmentalElectricityTheorem.text.1=
+
+##IC2NuclearReactionTheory
+tc.research_name.IC2NuclearReactionTheory=Doomsday of Lacking Energy
+tc.research_text.IC2NuclearReactionTheory=The last unknown technology for human being
+abcivIII.IC2NuclearReactionTheory.text.1=Lorem ipsum
+
+##IC2Drill
+tc.research_name.IC2Drill=电钻
+tc.research_text.IC2Drill=Improvement of Pickaxe
+
+##IC2Chainsaw
+tc.research_name.IC2Chainsaw=电锯
+tc.research_text.IC2Chainsaw=Improvaement of Axe
+
+##IC2DiamondDrill
+tc.research_name.IC2DiamondDrill=钻石电钻
+tc.research_text.IC2DiamondDrill=耐用的钻头
+
+##IC2OriginOfMatter
+tc.research_name.IC2OriginOfMatter=宇宙背后潜匿的§b物质§r
+tc.research_text.IC2OriginOfMatter=一即全，全即一
+abcivIII.IC2OriginOfMatter.text.1=在东方的神话传说中有一种名为蓬莱仙药的物质，可以令普通人类不老不死。一些道家炼丹师声称他们曾利用古代中国的炼丹术炼成过这不老不死之药。然而这技术早已消逝在了历史的长河之中。 <LINE>现在是时候让电子神秘使登场了。 <BR>几千年来对节点换能器的研究表明，它有能力维持一个单向通道开启，而这个通道将会吸收并破坏所有的物质，并转化为一种纯净§l物质§r。
+abcivIII.IC2OriginOfMatter.text.2=那个物质，正是无数神秘使正苦苦追寻的-不老不死之药，或者用某些魔法师的说法，贤者之石。<BR>据此，你决定用你现在所知的所有最强材料-原始魔力，元初珍珠，还有虚空金属，来打造有史以来最疯狂的电力机器。<LINE>你现在还是不能确定产物的样子-一些古代的研究笔记声称他们得到了固体的物质，然而近期的研究表示这是不可能的。 你察觉到周围的灵气似乎有些异样，根据记载，这种异常似乎会导致物质不断向更混沌状态转变。你决定稍后对此进行调查。
+
+
+
+# Notes: these work as special handlers. Translators from future, please test in game before edit any of following entries.
+#hungeroverhaul.nourishing.snack=健康小吃
+#hungeroverhaul.wholesome.meal=美味佳肴
+#hungeroverhaul.wholesome.largemeal=美味的大餐
+#hungeroverhaul.hearty.feast=饕餮盛宴
